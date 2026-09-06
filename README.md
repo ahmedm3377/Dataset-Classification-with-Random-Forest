@@ -1,4 +1,4 @@
-# 🌸 Iris Classification with Random Forest and Feature Visualization
+# 🌸 Classification with Random Forest and Feature Visualization
 
 This project demonstrates how to classify Iris flower species using a **Random Forest** classifier and visualize the distribution of each feature across classes using **boxplots**.
 
